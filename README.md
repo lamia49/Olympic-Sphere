@@ -20,6 +20,13 @@ Welcome to Olympic Sphere, revolutionizing the way sports organizations, athlete
 2.Sport:All CRUD
 3.Sport Admin Request:All CRUD
 ## Digram
+![ProjecFainal drawio](https://github.com/lamia49/Olympic-Sphere/assets/80590112/a1b48f6b-dcb3-49ad-a220-3b82e0822f20)
+
+## UseCase:
+![use case (2) drawio](https://github.com/lamia49/Olympic-Sphere/assets/80590112/a2dde027-5e4b-4a2f-929f-8b743498da63)
+
+## Postman Documentation :
+![PostMan](https://github.com/lamia49/Olympic-Sphere/assets/80590112/35f6642c-2e8a-446b-8f45-3ebca9fd5504)
 
 
 
