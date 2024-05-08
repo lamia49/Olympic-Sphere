@@ -20,7 +20,7 @@ Welcome to Olympic Sphere, revolutionizing the way sports organizations, athlete
 2.Sport:All CRUD
 3.Sport Admin Request:All CRUD
 # Digram
-![alt text](https://github.com/lamia49/Digram-FainalProject.git)
+![alt text] https://github.com/lamia49/Digram-FainalProject.git 
 
 
 
