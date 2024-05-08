@@ -19,7 +19,8 @@ Welcome to Olympic Sphere, revolutionizing the way sports organizations, athlete
 1.Ticket:All CRUD
 2.Sport:All CRUD
 3.Sport Admin Request:All CRUD
-https://github.com/lamia49/Digram-FainalProject.git
+# Digram
+![alt text]ProjectFainal.drawio.png
 
 
 
